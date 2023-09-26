@@ -1,0 +1,37 @@
+{
+	"cerebellum": {
+		"info": "The largest part of the brain, the cerebrum initiates and coordinates movement and regulates temperature. Other areas of the cerebrum enable speech, judgment, thinking and reasoning, problem-solving, emotions and learning.",
+		"funfact": "Contrary to its size, it holds more than half of the neurons in your whole body",
+		"link": "https://en.wikipedia.org/wiki/Cerebellum"
+	},
+
+	"spinal": {
+		"info": "The brainstem is the structure that connects the cerebrum of the brain to the spinal cord and cerebellum. It is composed of three sections in descending order: the midbrain, pons, and medulla oblongata.",
+		"funfact": "Responsible for sending messages from your brain throughout your body",
+		"link": "https://en.wikipedia.org/wiki/Brainstem"
+	},
+
+	"occipital": {
+		"info": "The occipital lobes sit at the back of the head and are responsible for visual perception, including colour, form and motion. Damage to the occipital lobe can include: Difficulty with locating objects in environment.",
+		"funfact": "These lobes have to be very fast to process the rapid information that our eyes are sending.",
+		"link": "https://en.wikipedia.org/wiki/Occipital_lobe"
+	},
+
+	"frontal": {
+		"info": "The frontal lobes are the largest lobes in the human brain and they are also the most common region of injury in traumatic brain injury. The frontal lobes are important for voluntary movement, expressive language and for managing higher level executive functions",
+		"funfact": "It's estimated they make up about one-third of your cerebrum.",
+		"link": "https://en.wikipedia.org/wiki/Frontal_lobe"
+	},
+
+	"parietal": {
+		"info": "The parietal lobe is a major sensory processing hub for your brain. It also combines information from multiple senses into a usable form. In essence, it helps construct the way your brain understands the world around you.",
+		"funfact": "The parietal lobes provide sensory information to the brain including touch, pain and temperature.",
+		"link": "https://en.wikipedia.org/wiki/Parietal_lobe"
+	},
+
+	"temporal": {
+		"info": "They are most commonly associated with processing auditory information and with the encoding of memory. The temporal lobes are also believed to play an important role in processing affect/emotions, language, and certain aspects of visual perception.",
+		"funfact": "While the exact mechanisms behind déjà vu are still not fully understood, some studies have suggested that déjà vu might be related to the temporal lobe.",
+		"link": "https://en.wikipedia.org/wiki/Temporal_lobe"
+	}
+}
