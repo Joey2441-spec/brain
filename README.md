@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo
 
-https://github.com/Joey2441-spec/brain/assets/53624798/9e6771be-12fd-4568-a89a-4d75c1c4f7e2
+https://github.com/Joey2441-spec/brain/assets/53624798/b3df8932-2a88-40ab-87d6-ce203865455d
+
+## About
+This website's main focus was how to work with SVGs and to create clickable maps around it. Tools like Inkscape make working with SVGs easy. This also introduces a well made footer that can be used for other webpages. 
 
 ## Getting Started
 
@@ -20,7 +23,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `pages/index.jsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
