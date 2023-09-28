@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo
 
-https://github.com/Joey2441-spec/brain/assets/53624798/b3df8932-2a88-40ab-87d6-ce203865455d
+https://github.com/Joey2441-spec/brain/assets/53624798/c2557612-8234-414e-9699-3a4c98c650de
 
 ## About
 This website's main focus was how to work with SVGs and to create clickable maps around it. Tools like Inkscape make working with SVGs easy. This also introduces a well made footer that can be used for other webpages. 
