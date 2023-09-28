@@ -1,13 +1,15 @@
 import FooterIcons from './FooterIcons';
 import '@app/globals.css';
+import BrainLogo from './BrainLogo';
 
 function Footer() {
+	console.log('hello', BrainLogo);
 	return (
 		<>
 			<div className='flex flex-col rounded-t-lg bg-footer-bg w-screen h-max'>
 				<div className='flex flex-row justify-center py-32 items-center gap-x-48'>
 					<div className='flex flex-col gap-3'>
-						<img style={{ 'margin-left': '-10px' }} src='images/brain_icon.svg' width='50' alt='brain logo' />
+						<BrainLogo className='text-footer-text' altText={'brain logo'} />
 						<h2 className='text-footer-text'>Mind your Decision</h2>
 						<div className='flex gap-4'>
 							<FooterIcons />

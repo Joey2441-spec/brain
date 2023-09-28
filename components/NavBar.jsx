@@ -6,7 +6,7 @@ function NavBar() {
 		<>
 			<AppBar>
 				<Toolbar>
-					<img className='pb-1 text-green' style={{}} src='images/brain_icon.svg' width='50' alt='brain logo' />
+					<img className='pb-1 text-green' src='images/brain_icon.svg' width='50' alt='brain logo' />
 					<Typography component={'div'}>MindMapper</Typography>
 				</Toolbar>
 			</AppBar>
