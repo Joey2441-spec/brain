@@ -7,11 +7,11 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import data from '@public/brain_info.json';
 
-export default function TextDisplay({ text }) {
+export default function TextDisplay({ text, placeholder }) {
 	let info;
 	let funFact;
 	let link;
-	if (text != 'none') {
+	if (text != placeholder) {
 		info = data[text].info;
 		funFact = data[text].funfact;
 		link = data[text].link;
@@ -30,7 +30,7 @@ export default function TextDisplay({ text }) {
 								</Typography>
 								<Typography variant='body2'>{info}</Typography>
 								<Typography variant='h6' component='div'>
-									Fun Fact
+									{text != placeholder ? 'Fun fact' : ''}
 								</Typography>
 								<Typography variant='body2'>{funFact}</Typography>
 							</CardContent>
